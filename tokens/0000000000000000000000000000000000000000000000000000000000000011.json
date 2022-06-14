@@ -1,0 +1,16 @@
+{
+    "version":"pruebas",
+    "name":"Test Token Legendary #11",
+    "description": "Token de prueba legendario",
+    "amount": 1,
+    "image":"https://raw.githubusercontent.com/ImagiNFT/SampleTokensRewards/main/sample.png",
+    "image_url":"https://raw.githubusercontent.com/ImagiNFT/SampleTokensRewards/main/sample.png",
+    "background_color":"fefefe",
+    "animation_url":"https://raw.githubusercontent.com/ImagiNFT/SampleTokensRewards/main/sample.png",
+    "attributes":[
+        {
+            "trait_type": "rarity",
+            "value": "legendary"
+        }
+    ]
+}

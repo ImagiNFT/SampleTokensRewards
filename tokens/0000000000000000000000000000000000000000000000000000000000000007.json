@@ -1,0 +1,16 @@
+{
+    "version":"pruebas",
+    "name":"Test Token Common #7",
+    "description": "Token de prueba comun",
+    "amount": 1,
+    "image":"https://raw.githubusercontent.com/ImagiNFT/SampleTokensRewards/main/sample.png",
+    "image_url":"https://raw.githubusercontent.com/ImagiNFT/SampleTokensRewards/main/sample.png",
+    "background_color":"fefefe",
+    "animation_url":"https://raw.githubusercontent.com/ImagiNFT/SampleTokensRewards/main/sample.png",
+    "attributes":[
+        {
+            "trait_type": "rarity",
+            "value": "common"
+        }
+    ]
+}

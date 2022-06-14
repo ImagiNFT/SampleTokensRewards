@@ -1,0 +1,8 @@
+{
+    "name": "Universelle Sample Token",
+    "description": "This token is for testing purposes only.",
+    "image": "https://raw.githubusercontent.com/ImagiNFT/SampleTokensRewards/main/sample.png",
+    "external_link": "https://universelle.io",
+    "seller_fee_basis_points": 500,
+    "fee_recipient": "0xd3299cc47F1aFb07E06BbF9c812cC954ed75e6Cc"
+}
